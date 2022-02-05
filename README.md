@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Yurii
+- 👀 I’m interested in mobile software development
